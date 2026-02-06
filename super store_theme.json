@@ -1,0 +1,30 @@
+{
+    "name": "SuperStore Green Theme Final",
+    "dataColors": [
+        "#1B5E63", 
+        "#4A6D55", 
+        "#8CB141", 
+        "#B2D784", 
+        "#407F4E", 
+        "#248788", 
+        "#A4D105", 
+        "#5E7D66"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{
+                    "show": true,
+                    "color": { "solid": { "color": "#FFFFFF" } },
+                    "transparency": 0
+                }],
+                "visualTooltip": [{ "type": "Default" }]
+            }
+        }
+    },
+    "textClasses": {
+        "label": { "color": "#252423" },
+        "callout": { "color": "#1B5E63" },
+        "header": { "color": "#1B5E63" }
+    }
+}
