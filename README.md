@@ -2,7 +2,7 @@
 Interactive Power BI Sales Dashboard: advanced DAX modeling, custom JSON branding, and deep retail analytics (seasonality, geography, and profit).
 
 
-📸 ![Dashboard Preview]((https://github.com/AntoinetteSa/Power-BI-Project-Super-Store-Sales-Profit-Analytics-Dashboard/blob/main/Dashboard%20SuperStore%20Sales.png)
+📸 ![Dashboard Preview](https://github.com/AntoinetteSa/Power-BI-Project-Super-Store-Sales-Profit-Analytics-Dashboard/blob/main/Dashboard%20SuperStore%20Sales.png)
 ________________________________________
 [🇺🇦 Українська версія](#ukrainian-version) | [🇺🇸 English Version](#english-version)
 ________________________________________
